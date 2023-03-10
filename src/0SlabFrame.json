@@ -1,0 +1,4 @@
+{"variants": {
+"half=bottom": { "model": "te4blocks:%BLOCK%_slab_bottom" },
+"half=top": { "model": "te4blocks:%BLOCK%_slab_top" }
+}}

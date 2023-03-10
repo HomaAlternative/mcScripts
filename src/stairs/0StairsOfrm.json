@@ -1,0 +1,5 @@
+{"parent": "block/outer_stairs","textures": {
+"bottom": "te4blocks:block/%BLOCK%",
+"top": "te4blocks:block/%BLOCK%",
+"side": "te4blocks:block/%BLOCK%"
+}}

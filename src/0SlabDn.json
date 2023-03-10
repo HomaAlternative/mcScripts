@@ -1,0 +1,5 @@
+{"parent": "block/half_slab","textures": {
+"bottom": "te4blocks:block/%BLOCK%",
+"top": "te4blocks:block/%BLOCK%",
+"side": "te4blocks:block/%BLOCK%"
+}}

@@ -1,0 +1,15 @@
+{"parent": "minecraft:recipes/root",
+"requirements": [["has_the_recipe","has_item"]],
+"rewards": {"recipes": [
+    "%RECEPT_FULL_NAME%"
+]},
+"criteria": {
+    "has_the_recipe": {"trigger": "minecraft:recipe_unlocked",
+        "conditions": {"recipe": "%RECEPT_NAME%"}
+    },
+    "has_item": {"trigger": "minecraft:inventory_changed",
+        "conditions": {"items": [{
+                "item": "%RECEPT_FULL_NAME%"
+        }]}
+    }
+}}

@@ -1,0 +1,7 @@
+{
+    "parent": "%PARENT%",
+    "textures": {
+        "edge": "te4blocks:block/%BLOCK%",
+        "pane": "te4blocks:block/%BLOCK%"
+    }
+}
